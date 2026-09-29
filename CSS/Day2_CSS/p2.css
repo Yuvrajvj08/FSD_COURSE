@@ -1,0 +1,13 @@
+div{
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    padding-bottom: 120px;
+    background-color: black;
+}
+h1{
+    background-color: aqua;
+}
+p{
+    background-color: aquamarine;
+}
