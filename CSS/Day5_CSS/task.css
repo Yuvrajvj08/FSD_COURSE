@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.child{
+    background-color: blueviolet;
+    width: 300px;
+    height: 300px;
+    
+    border:10 px solid black ;
+}
+
+.parent{
+    background-color: yellow;
+    padding: 20px;
+    height: 1200px;
+    width: 500vw;
+    row-gap: 2 px ;
+    column-gap: 2px ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
